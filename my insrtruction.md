@@ -1,4 +1,4 @@
-# LET'S START
+# LET'S START TOGETHER
 
 # 19 January 2023!
 # Инструкция для работы с Git и удалёнными репозиториями
